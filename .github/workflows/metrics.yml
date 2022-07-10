@@ -53,7 +53,6 @@ jobs:
           plugin_followup_sections: repositories
           plugin_fortune: yes
           plugin_habits: yes
-          plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
@@ -65,7 +64,6 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
