@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 3 users
+                            Following 4 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    264 MB used
+                                    265 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.10m added, 413k removed
+                                    1.61m added, 821k removed
                                 </div>
                             </section>
                             <section>
@@ -1980,10 +1980,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    3 followed
+                    4 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYHBP/EAC4QAAEEAQIEBAQHAAAAAAAAAAECAwQRBQAhBhITUQcxQYEUI2FxFSIykaHR4f/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAwb/xAAiEQACAQQCAQUAAAAAAAAAAAABAhEAAwQhBUESExQicZH/2gAMAwEAAhEDEQA/AMultSIK2IcOOHZLtEqVs2kdydUXCTeKjqcYzOQDM96ltrLVhxJ/Rybi/wDdNKxyc7jENNpQnrOhEVy97q1n7cgP8ah+GsXlviHTjiF5NtRbaFXykXfnt6k3pWczlgEJH1U3j7KemWKye5rRPwd9L4cLvUiNkV0mzat/Pvp9zBKeUFpSrlI/LfbRmI4jZxzUSFxSsw8i7Y+amkL3238roj6aaVlVrNx0HojZHL5VrfFDFdNLd0bKAR/ksL1WN4XJSYnBM92E803JaHSbAsLQha0c5JvtsPfRvh9lJsSU58VOegxNmyppm1mz5CgTf9aQ8NkpyUOZAlJSphS27oUo7d9VWAwMCRMktONqCGVL5AlXLXzmken0J99SMi8deOuv2ugs2QqktvU01jm5HF2MjYSU8QQnqvOqds8noCdgSf221TwcA1GiMx3XhzNIDfsBQ11wsXDxbcuRCYS25QQOyU0NhrG85xll28xMbadQhtDqkpSmwAL++l3MsYxUETqgW+O96hgxBr//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAACAMEBQcAAQb/xAApEAACAgECBQQBBQAAAAAAAAABAwIRBAAFBhIhMUETIlHRYQcyQoGR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAyEEEhMiMUH/2gAMAwEAAhEDEQA/AMyEPCg2/UE/b2+B3BPjrpguGRzmIB6D4rUiyeUKEGR5R4r7+9THA20R3jiGCs5wGMqEmsHQcwFCr8C6v8ampZ1LLhVFkTncXa90yRKWPiuav9plBZI79rGneTwvvQdL0tuypQ8EQP1ok1Jx8LESrFUqCu0RCNADr2/GlVsUwEyisG60jtgezBHkH4sHBuGRI3ON1d3WrL/SjD2x+1Z5asMaZem4soxnGu1H+PU38/5qoZEyNGR8aUTNqVkJe6AN2IzoHR8XgdxecdYoQnoSxo48IJCwlVR5IdBHwBWtxwlS9w6XoZUcZ7zw1nbavb3xknIZTFuHNGV/3ero20N3zb0ZuXlZMGyBHKmfJEAE9hpi0+zJrqUNT//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEOklEQVR4nO3V609TZxzA8ecpPfRyCr3Q9pTantOWnra0rLTQ0gtt6VraQil3CZcCglyKYXKXMTBERMUbCIFhcYJ4Ic4hg2w63TJ1LyY4jbctvFoW/wGTvfP1kk3fLTs49nLfnBfnxZNPTk6e5/cAsOOqEeQ8i9WfmCiDEOw+hUJxgCRfJSVtczjPOZxVNpuxe/T44tk329v3NJpFFmuDzf6czZbs6mNpAK0knbXnt3769c3r1w9OnFi2Wo8xGNhuUMQjNvjPiOX7UvjuWF3s5ZPnT1fX2hGE9X4MzqS7hW/f6VBeUy6UlKJQ8NfDh6JeNNDmzH27QMqAIRG1mZDDC4ZLspp8qFvGDMo0lg4Uitw5PrVMr5Eb3Dk+ApHXtzUjHklqcUbNcDvLj1OjdCv/5o0vv7l1+9HW5uTpc4SmCUvGP3QGjRpLlsEe8kaS6aKIMfDk8eMf7t9/+eKFojqbGkVswu+/u+fM9qBQIMZyhZLypAShFv8glUdIuIReZUIh30RL4yIiNuBfXrpi6wzvAM0VbT18ZNJZxFxFVuCIECtBoaA4VBHyRvyuglyLFwX8CMwUQQyFgvnZeMHhOmqU4cA2H24VVQ96onfNobg++IXGNsRjkenKTFyoRqHADFStwDFFq/LtyZk992nleCugU20vpg27GL8UaL+jy1uQ6cfIzA7pHm+aYxKFKSgUGIDiMog2w7wpWPJz2vip6GD1sRhg0SjQRAc2MHg8I/wtkTWDES2kb0WmH5Nqu4VYGIWCoyBsAVoX1F6CDd3Q15NeUTnWAphUKMOB2Tz7cdOU3DieIgxqQ+ty41mF5aJEFZOB1GFY2AXccbD3I+jpBK4esszTU0b9TxG7KK98VOO7lua6QGSPkN5lwjynsCzJDCM2qBsB/kkQnoCRdranm5M/q2hgueTUKN0qMLq61J4NlXNBV/g1nnVUaV3GM6clyjY9VCyAsnEQ6kwJrF5fO2Sq2eC2c/PTqFGajYurKvKbvzIX3SQM3Wp9Q6l7NKzbn55kN7LIMyBsg2RTXnQgNlTFsJ1GSjkhghpNNAnE8kaV/ZrOe8Fbv1FU2BxPbX0FRmdoVavpvb+QE4v2g7/LZn9jHP0EBk7SSmj+HZx9mpUnljeo3etK+1WlY07tXVcmu6LQMgEjm6D/R9B1i3ngAbPvOtz3GaxdgzEQejd9/ikewhvySubaJFdaZPND/FUfb8WW1JdBHFTPV+2tOWSumNKXtxkXCmp7+tzqSRxodzYFE/sxZWwab5zEW08RdSfxjiPywlFxfoO0ckCWLS+wZjQ6c0qtRkURntCbCnYamoB4MG5pUBLoUtrn1J4bKvuK0nYVJ1uHBw/fuX1XUWiGxWKgZ4N/k5xJ84k4FjJa//HM9NKzp8+m4/MpzQagec/B/zdJGUhYWjzaSLRYgF8A/ovr+V08OqA64v8H/uwPV+IK0XNOO0gAAAAASUVORK5CYII=" width="28" height="28" alt="" />
@@ -2637,6 +2638,37 @@ Remove nitrado.js as it is now in a depreciated state and there are no plans to 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.336683417085427 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g fill="none" fill-rule="evenodd">
+                                            <path d="M35 31a7 7 0 1114 0 7 7 0 01-14 0zm12-13a3 3 0 116 0 3 3 0 01-6 0zM33 49a3 3 0 116 0 3 3 0 01-6 0zM4 15a3 3 0 116 0 3 3 0 01-6 0zm37-8.5a2.5 2.5 0 115 0 2.5 2.5 0 01-5 0zM10 14l4.029-.576M19.008 26.016L21 19M29.019 34.001l5.967-1.948M36.997 46.003l2.977-8.02M46.05 24.031L48 21M28.787 18.012l7.248 8.009" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M43.62 29.004c-1.157 0-1.437.676-1.62 1.173-.19-.498-.494-1.167-1.629-1.167-.909 0-1.355.777-1.371 1.632-.022 1.145 1.309 2.365 3 3.358 1.669-.983 3-2.23 3-3.358 0-.89-.54-1.638-1.38-1.638z" fill="#2088FF"/>
+                                            <path stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M48.043 15.003L45 9"/>
+                                            <path d="M21 12a3 3 0 116 0 3 3 0 01-6 0zM27 12h3M18 12h3M21 43c-.267-1.727-1.973-3-4-3-2.08 0-3.787 1.318-4 3m4-9a3 3 0 100 6 3 3 0 000-6z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M17 30a9 9 0 110 18 9 9 0 110-18z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Follower
+                                </div>
+                                <div class="text">Following 4 users</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
                                         <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.5656565656565657 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
@@ -2683,37 +2715,6 @@ Remove nitrado.js as it is now in a depreciated state and there are no plans to 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.5577889447236182 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g fill="none" fill-rule="evenodd">
-                                            <path d="M35 31a7 7 0 1114 0 7 7 0 01-14 0zm12-13a3 3 0 116 0 3 3 0 01-6 0zM33 49a3 3 0 116 0 3 3 0 01-6 0zM4 15a3 3 0 116 0 3 3 0 01-6 0zm37-8.5a2.5 2.5 0 115 0 2.5 2.5 0 01-5 0zM10 14l4.029-.576M19.008 26.016L21 19M29.019 34.001l5.967-1.948M36.997 46.003l2.977-8.02M46.05 24.031L48 21M28.787 18.012l7.248 8.009" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M43.62 29.004c-1.157 0-1.437.676-1.62 1.173-.19-.498-.494-1.167-1.629-1.167-.909 0-1.355.777-1.371 1.632-.022 1.145 1.309 2.365 3 3.358 1.669-.983 3-2.23 3-3.358 0-.89-.54-1.638-1.38-1.638z" fill="#2088FF"/>
-                                            <path stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M48.043 15.003L45 9"/>
-                                            <path d="M21 12a3 3 0 116 0 3 3 0 01-6 0zM27 12h3M18 12h3M21 43c-.267-1.727-1.973-3-4-3-2.08 0-3.787 1.318-4 3m4-9a3 3 0 100 6 3 3 0 000-6z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M17 30a9 9 0 110 18 9 9 0 110-18z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Follower
-                                </div>
-                                <div class="text">Following 3 users</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
                                         <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6206206206206206 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
@@ -2737,7 +2738,7 @@ Remove nitrado.js as it is now in a depreciated state and there are no plans to 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.61m out of 389m repositories</span>
+                                    <span class="gh">ranked 2.63m out of 389m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -2895,14 +2896,14 @@ Remove nitrado.js as it is now in a depreciated state and there are no plans to 
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2023, 13:03:16 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Mar 2023, 14:07:04 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
