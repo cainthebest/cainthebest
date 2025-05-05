@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            11325 Commits
+                            11326 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 7 users
+                            Following 8 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    958k added, 208k removed
+                                    370k added, 80.1k removed
                                 </div>
                             </section>
                             <section>
@@ -1543,7 +1543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darfink/detour-rs</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross-platform detour library written in Rust</div>
@@ -1596,7 +1596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mmastrac/rust-ctor</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Module initialization/global constructor functions for Rust</div>
@@ -1649,7 +1649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mdqinc/SDL_GameControllerDB</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A community sourced database of game controller mappings to be used with SDL Game Controller functionality</div>
@@ -1943,10 +1943,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    7 followed
+                    8 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAKxAAAQQBAwMCBQUAAAAAAAAAAQIDBBEFABIhBjFBFGEHEyKBkRUjMlFx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EAB8RAAEDBQADAAAAAAAAAAAAAAEAAgMEERMhIhIxUf/aAAwDAQACEQMRAD8A0jp7DycngHIMyRGil5BQltSrX57IH34vWNfrGRGfmsembjyGXC0dx3kEGvb+tX2K+Ir/AE1mss7JS89EiPNfsMoH1IUhvizQu1X3u9deuYjA6vkTYmwtydjw2kHkiyCR58/fSspKOaPGL/UqQJsl6dMcyL3qJJdsuVXHjRL7yg4eR+NQlNpTLLyaG/v76FclpbVSVCu/AOoqhnk66dTyco1GWZyAyDS6Lcj6w1/N2xTqAPHa+O4rVhMyDzTbcTIhwNttpcZdfUEEhdDZXFmzXA8e3Cj01LfEQpS6pJcWySodwFLNgex3q/Oqj4ksCBlY8Zlx1bLkFpRDqyvlN1V6oaNo39NsU+5hUNjFeoekx/mOMMyGWt3MhDiyPo8bwEEkGiK50qNTo74UtlQ2biBvBB0loRuwTdqVXzHRtvjgCj/umnAQGcrh4sqbuW8UBJVx2HA0Ezt6C0NOAPa//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABgcEBQj/xAAvEAABAwIDBgQGAwAAAAAAAAABAgMEBREABiEHEhMxQVEUYXGBFRYiMpHRUqGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAAL/xAAhEQABBAEDBQAAAAAAAAAAAAABAAIEEQMFEiETIkFRof/aAAwDAQACEQMRAD8Aos1Vh1z4cwyoF1xxY0PU7n7wU5ay1DqMB9MiW4uQCBxG1fb7YT9ZqTTNTpDj6yhtBWsqHQ2Fj+QMOzI7sedTHTFXxUBxJbdLQvY8xcAm1unni/PkPx5Om01SdjAPPISordQk0esS6fJXdyO4UE9+x9xriF8wr/n/AHiBtYltDaFWUxyOGhxtH02ABDaAeXmDgS8We+Myc6uUB3a8hXFWgyKm9GZjqbs22SpThCAkafvDc2XRnqRlFTr9YlNCW6IcdA3bB1aLo5g8P1Nhoe2AXJqiy9GeASpSndwhSQRbTB1ltluVkyEqS2h1aXGQFKSL6vspV+Qog+uJeoy7klteQPiNhxkN3g+0sdoGUl0MS56JUmUz4zhFT7VlObw3g5vgkG5vfl0tfmATi40VtfiofynVnHColhllTYvoCp3X/BjOWF4mY5m2VzNjmM/bdr//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAwAEBgcIBf/EACkQAAIBAwMDAwQDAAAAAAAAAAEDAgQFEQAGIQcSMRNBURRhgcEicdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAcEQACAwEBAQEAAAAAAAAAAAABAgADERIEIVH/2gAMAwEAAhEDEQA/AB9YLRSVlrt1DbLw1gdUmDYsh6a8/wAMYH5PJ+DouwukNnRuBCl32x3iK1ND0qeGMEiCBhZ+ARz9vbS3CtP19I9+AKd8GZI8YIJ1Eaq8QtlzaHU6RUskyEqwGUGGBP2PH+EjWVrOBkp5k7+w976XpVui2UlllJV2i0yqltYAYxAz3mAJ7cgDjPOfxqUMo5omVTI748S/vVhdFK0XK2E3Ktpq10pSC/UYGNiMcjv848cc6eXbZFSa5k0GLIMJmD8ZPjULajYoMbG5aZ36g70U0vgtmS4nuYfv5wNcDcVWquqfVgZMVkmJWfIPOeNQbcc5GoAJOM/oaPtuseO9PflcRkA+2rX1YvQj5cBz9lsdNN+o2nXMWYgScAD6nkxzrQdB1ctzqcSRTSC84GJAfrWG9ySJq4k+cabovNwSsQVVNjEewkdKKxQYYWrlhE//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB20lEQVR4nL1WQWvCMBTuQYSBrE4qc5fKTtZZwYNDbAseHA4Ec/CflHlWT7KTt/waYf6TDXbf/oLjqXVJmvdSp66QhiZpvrz3fS98FnO9KQ/YRm3Mrc8szVOznXDSjN7EtXEjXIlrGPLvYZy53kwG81I/1IvlXuyHK93heHe0qV07YbJ2v8dcBtthiAPbSNXT6SLStRc/WouA4l7QJ2NSFOPqgwSGRoS0ul3uiYDQxtWGlD0pv2qEx4CJXPJUhL86wTic/wUw4VKngwOHYn5VlR4NGOy4xFXqTXXjKaG8Pj5/tkp3fehVAGqOa0rGKP1Fe/BRuSrcF3J5G/pFe/CeZY4jJUNKH04NGzVvbp+WneE39PAN49QcJ0qGlH6rVOnD6Zed4Rd8w8aFXL4IKcTnKn2qZEglnitCLnJpUt3JHAYKl1mkfopKucolvP4LkEPhb2+G7ujyKQ32gFulNvRKPadouAgIkr10WXBQqi/cOjouzxXhpBmta7YTybcNwuUpHMZ+uILrEr1LKS6PUelEF1EWw5OlZHSNUcaMMjymkqGUyDBjZjI8WJqN0rcQY2YyPFjJZJK+lTZmZsODlEwW6TONMUs41Bue/UNxiUkfM2aESmXDo3JJSZ8yZj+090QhH9QbYgAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
@@ -2073,14 +2074,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2025, 14:10:18 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 May 2025, 15:02:44 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
