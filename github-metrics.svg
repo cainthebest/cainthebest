@@ -69,13 +69,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            14042 Commits
+                            14043 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            16 Pull requests reviewed
+                            18 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.45m added, 326k removed
+                                    1.24m added, 598k removed
                                 </div>
                             </section>
                             <section>
@@ -2073,7 +2073,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 24 Aug 2025, 03:38:58
+                            On 25 Aug 2025, 12:52:56
                         </div>
                     </section>
                 </div>
@@ -2083,14 +2083,50 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            chore(clippy): fix a load of "variables can be used directly"
+                            Maintenance: dep updates and clippy fixs (#243)
+
+* chore(deps): update crc32fast to v1.5
+
+* chore(deps): update ureq to v2.12
+
+* chore(deps): update phf to v0.13
+
+* chore(deps): update clap to v4.5
+
+* chore(deps): update lazy_static to v1.5
+
+* chore(deps): update thiserror to v2.0.16
+
+* chore(deps): update clap to v4.5
+
+* chore(deps): update bson to v2.15
+
+* chore(deps): update base64 to v0.22
+
+* chore(deps): update quick-xml to v0.38
+
+* chore(deps): update webbrowser to v1.0
+
+* chore(clippy): fix a load of "variables can be used directly"
+
+* chore(ci): update MSRV toolchain to 1.82.0
+
+* chore(pre-commit): update MSRV to 1.82.0
+
+* chore(README): update Minimum Supported Rust Version to 1.82.0
+
+* chore(VERSIONS): update MSRV to 1.82.0
+
+* chore(cli): bump version to 0.4.0 and update MSRV to 1.82.0
+
+* chore(release): bump version to 0.8.0 and update MSRV to 1.82.0
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">56b62774</span>
-                            <span class="code">crates/lib/src/http.rs</span>
+                            <span class="code">080f327a</span>
+                            <span class="code">.github/workflows/ci.yml</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -2101,7 +2137,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -211,7 +211,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Host::Ipv4(ip) =&gt; SocketAddr::V4(SocketAddrV4::new(ip, port)),<br /></span><span class="token prefix unchanged">·</span><span class="token line">Host::Ipv6(ip) =&gt; SocketAddr::V6(SocketAddrV6::new(ip, port, 0, 0)),<br /></span><span class="token prefix unchanged">·</span><span class="token line">Host::Domain(domain) =&gt; {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    format!("{}:{}", domain, port)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    format!("{domain}:{port}")<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        .to_socket_addrs()<br /></span><span class="token prefix unchanged">·</span><span class="token line">        .map_err(|e| HostLookup.context(e))?<br /></span><span class="token prefix unchanged">·</span><span class="token line">        .next()</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -128,7 +128,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- name: Install MSRV<br /></span><span class="token prefix unchanged">·</span><span class="token line">  uses: actions-rs/toolchain@v1<br /></span><span class="token prefix unchanged">·</span><span class="token line">  with:<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    toolchain: 1.81.0<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    toolchain: 1.82.0<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    override: true<br /></span><span class="token prefix unchanged">·</span><span class="token line">- name: Run MSRV<br /></span><span class="token prefix unchanged">·</span><span class="token line">  run: cargo check -p gamedig</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2116,14 +2152,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #E7890C">Your fortune: Good Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2025, 01:07:59 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2025, 02:30:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
